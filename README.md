@@ -6,15 +6,17 @@
 - Certificate Course in Data Science
 
 ### Work Experience
-- Data Science intern
-- D
-  - big impact project 
-  - big impact project 2
-- F
-- d
-  - dd
+- Data Science intern ( April 2024 - Current )
+  - Task: Creation and deployment of a time series forecasting system for 4 distinct grades of coal.  
+  - Step 1: EDA
+  - Step 2: Model based approach
+  - Step 3: Data driven approach
+  - step 4: Neural nets approach
+  - step 5: Full model creation
+  - step 6: Deployment using streamlit
+
 ### Projects
-- p1
+- ![p1][https://www.google.in]
 - p2
 - p3
   
