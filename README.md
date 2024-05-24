@@ -1,10 +1,12 @@
 ## Data Analyst Portfolio
 
 ### Education
-EcE, mtech
+- UG: B.Tech. in Electronics and Communication Engineering
+- PG: M.Tech. in Electronics Design and Technology
+- Certificate Course in Data Science
 
 ### Work Experience
-DS intern
+Data Science intern
 -big impact project 1
 -big impact project 2
 
