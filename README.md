@@ -6,10 +6,13 @@
 - Certificate Course in Data Science
 
 ### Work Experience
-Data Science intern
--big impact project 1
--big impact project 2
-
+- Data Science intern
+- D
+  - big impact project 
+  - big impact project 2
+- F
+- d
+  - dd
 ### Projects
 - p1
 - p2
