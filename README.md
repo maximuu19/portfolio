@@ -1,9 +1,9 @@
 ## Data Analyst Portfolio
 
 ### Education
-- UG: B.Tech. in Electronics and Communication Engineering
-- PG: M.Tech. in Electronics Design and Technology
-- Certificate Course in Data Science
+- UG: B.Tech. in Electronics and Communication Engineering - 7.98 CGPA
+- PG: M.Tech. in Electronics Design and Technology - 8.49 CGPA
+- Certificate Course in Data Science - Crisp-ML(Q), Data preprocessing and EDA, Data mining-Unsupervised and Supervised, Text Mining, Time series Analysis-Forecasting
 
 ### Work Experience
 - Data Science intern ( April 2024 - Current )
